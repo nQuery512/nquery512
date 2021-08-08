@@ -1,4 +1,8 @@
-### Hi there 👋
+#### French Big Data Engineer 🇫🇷
+ - Tech Enthusiast
+ - Building on many langage (Python, C, JS)
+ - Game developpement
+ - Blockchain Developper
 
 <!--
 **nQuery512/nquery512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
